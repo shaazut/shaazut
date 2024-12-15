@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm UT MOHAMMED SHAAZ</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<div style="display: flex; align-items: right;">
-  <iframe 
-    src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" 
-    width="400" 
-    height="400" 
-    style="border: none;" 
-    allowfullscreen>
-  </iframe>
-</div>
+
 <p>
   <a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm" target="_blank">
     via GIPHY
