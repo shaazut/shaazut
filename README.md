@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm UT MOHAMMED SHAAZ</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>">
+<img align="right" alt="coding" width="400" href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">
 - 📫 How to reach me **http://shaaz.freewebhostmost.com/**
 
 <h3 align="left">Connect with me:</h3>
