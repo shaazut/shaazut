@@ -3,7 +3,7 @@
 <img 
     align="right"
     src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" 
-    width="200" 
+    width="250" 
     alt="Coding GIF">
 
 - 📫 How to reach me **http://shaaz.freewebhostmost.com/**
