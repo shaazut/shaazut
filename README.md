@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm UT MOHAMMED SHAAZ</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right"
-    src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" 
-    width="400" >
+<img 
+    align="right"
+    src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" 
+    width="400" 
+    alt="Coding GIF">
+
 - 📫 How to reach me **http://shaaz.freewebhostmost.com/**
 
 <h3 align="left">Connect with me:</h3>
