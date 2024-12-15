@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm UT MOHAMMED SHAAZ</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
-<p>
-  <a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm" target="_blank">
-    via GIPHY
-  </a>
-</p>
-
+<img align="right"
+    src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" 
+    width="400" >
 - 📫 How to reach me **http://shaaz.freewebhostmost.com/**
 
 <h3 align="left">Connect with me:</h3>
